@@ -3,6 +3,7 @@
 ####################################################################################################
 # EW_lt_female_death_period.txt: the raw female period life-table death counts
 # EW_lt_male_death_period.txt: the raw male period life-table death counts
+# Explanatory_analysis_qx.R: read the period life-table death counts
 # uk_cohort_female.txt: the raw (incomplete) female cohort life-table death counts
 # uk_cohort_male.txt: the raw (incomplete) male cohort life-table death counts
 
