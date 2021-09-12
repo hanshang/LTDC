@@ -10,6 +10,9 @@
 # the completed cohort data using PCLM:
 # uk_female_pop_complete.txt: Completed female cohort life-table death counts for England and Wales
 # uk_male_pop_complete.txt: Completed male cohort life-table death counts for England and Wales
+# complete_cohort: read the completed cohort life-table death counts
+# Female_GBRTENW.Rdata: .RData file for the female period life-table death counts
+# Male_GBRTENW.Rdata: .RData file for the male period life-table death counts
 
 ########################################################################################################
 # Functions:
